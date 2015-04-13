@@ -1,5 +1,5 @@
 {
-  "name": "node-push-notif-server",
+  "name": "node-push-notification-server",
   "version": "1.0.1",
   "description": "A simple push notification server built using nodejs",
   "main": "server.js",
