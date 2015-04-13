@@ -1,0 +1,15 @@
+{
+  "name": "node-push-notif-server",
+  "version": "1.0.1",
+  "description": "Basic push notification server using nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "~1.3.5",
+    "xml2json": "~0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
