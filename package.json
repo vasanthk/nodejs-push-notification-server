@@ -1,7 +1,7 @@
 {
   "name": "node-push-notif-server",
   "version": "1.0.1",
-  "description": "Basic push notification server using nodejs",
+  "description": "A simple push notification server built using nodejs",
   "main": "server.js",
   "dependencies": {
     "socket.io": "~1.3.5",
